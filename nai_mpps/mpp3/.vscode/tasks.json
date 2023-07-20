@@ -1,0 +1,49 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "cl.exe debug",
+            "type": "shell",
+            "command": [
+                "cl.exe",
+                "/std:c++17",
+                "/Zi",
+                "/fp:fast",
+                "/utf-8",
+                "/EHsc",
+                "/I ${workspaceFolder}\\include",
+                "/Fo: ${workspaceFolder}/obj/",
+                "/Fd: ${workspaceFolder}/build/",
+                "/Fe: ${workspaceFolder}/build/${workspaceFolderBasename}.exe",
+                "${workspaceFolder}\\src\\*.cpp"
+            ],
+            "problemMatcher": [
+                "$msCompile"
+            ]
+        },
+        {
+            "label": "move exe to bin/debug/",
+            "type": "shell",
+            "command": [
+                "move-item",
+                "-path",
+                "${workspaceFolder}/build/${workspaceFolderBasename}.exe",
+                "-destination",
+                "${workspaceFolder}/bin/debug/",
+                "-force"
+            ]
+        },
+        {
+            "label": "cl debug-build",
+            "dependsOrder": "sequence",
+            "dependsOn": [
+                "cl.exe debug",
+                "move exe to bin/debug/"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

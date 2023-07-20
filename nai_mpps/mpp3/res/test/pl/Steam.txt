@@ -1,0 +1,20 @@
+Steam – platforma dystrybucji cyfrowej i zarządzania prawami cyfrowymi, system gry wieloosobowej oraz serwis społecznościowy stworzony przez Valve Corporation.
+
+W październiku 2012 roku Valve rozszerzyło ofertę o oprogramowanie niebędące grami. Steam pozwala użytkownikowi na instalację i automatyczne zarządzanie oprogramowaniem na wielu komputerach oraz dostarcza funkcje społecznościowe takie jak listy znajomych i grupy, zapis w chmurze, rozmowy głosowe oraz czat dostępny podczas gry. Steam zapewnia ogólnodostępny interfejs programowania aplikacji (API) zwany Steamworks, który może być użyty przez programistów do zintegrowania z ich produktami takich funkcji platformy Steam jak zabezpieczenie przed kopiowaniem, funkcje sieciowe i matchmaking, osiągnięcia w grach, mikropłatności oraz wsparcie dla zawartości tworzonej przez użytkowników w Steam Workshop.
+
+Steam zastąpił WON, oryginalny system gry wieloosobowej dla gry Half-Life. Program jest dostępny na platformy: Windows, macOS, Linux, SteamOS, PlayStation 3 (częściowo), Android, iOS i Windows 10 Mobile. 14 lutego 2013 udostępniono wersję klienta na systemy linuksowe[1]. Według danych z lutego 2015 roku z platformy korzysta ok. 125 milionów aktywnych użytkowników[2].
+Platformę zaczęto rozwijać w 2002 roku. Finalną wersję klienta Steam wydano 12 września 2003[3]. Rozwinięto w niej ideę sklepu, w którym można znaleźć więcej informacji na temat oferowanych tytułów, zobaczyć zdjęcia i oceny krytyków za pomocą serwisu Metacritic, a także pobrać ich wersje demonstracyjne. Utworzono również serwis „My Media”, umożliwiający pobieranie filmów wysokiej jakości.
+
+31 maja 2006 roku uruchomiono wersję 3.0 usługi „Friends”, umożliwiającej komunikowanie się użytkowników Steama na poziomie gry.
+
+16 października 2006 roku została uruchomiona polska wersja platformy Steam.
+
+We wrześniu 2008 roku firma Valve udostępniła funkcję „Steam Cloud”, która umożliwia użytkownikom przechowywać zapisane stany gier na serwerach Steama. Funkcję tę obsługują wszystkie gry firmy Valve na silniku Source (wyłączając Half-Life: Source i Half-Life 2: Deathmatch) oraz inne wybrane tytuły od innych wydawców.
+
+1 lutego 2011 roku dodano opcję wysyłania zrzutów ekranu z gier, gdzie każdy użytkownik ma do wykorzystania 2 GB przestrzeni dyskowej (pierwotnie użytkownicy otrzymywali 1 GB przestrzeni na ten cel).
+
+10 września 2012 roku rozpoczęły się publiczne testy funkcji Big Picture[4], która umożliwia użytkownikom podłączyć swój komputer do telewizora i korzystać z tradycyjnych funkcji platformy Steam w specjalnie do tego celu przygotowanym interfejsie, przystosowanym do obsługi gamepada. W grudniu 2012 roku tryb ten oficjalnie wyszedł z beta-testów i został udostępniony finalnie w pełnej wersji[5].
+
+Od 13 listopada 2017 roku w serwisie można płacić w złotówkach.
+Steam początkowo używany był jedynie do dystrybucji i zarządzania grami stworzonymi przez Valve (m.in. Half-Life, Half-Life 2) oraz ich modyfikacjami, np. Counter-Strike, jednak z czasem oprogramowanie stało się narzędziem dystrybucji gier również innych producentów. Na początku 2019 roku baza gier dostępnych za pośrednictwem platformy (nie wliczając DLC, programów użytkowych i filmów wideo) wynosiła ponad 30 000 tytułów[6].
+Steam Greenlight został zapowiedziany w lipcu 2012 roku jako sposób dla użytkowników na pomoc w wyborze gier, głównie niezależnych, które chcieliby, aby były dostępne w usłudze Steam. Został uruchomiony 30 sierpnia 2012 roku[8]. Twórcy mogą dodawać informacje na temat ich gier, materiały wideo, zrzuty ekranu, a także wczesne wersje rozwojowe, by zainteresować użytkowników. Ci mogą zagłosować, a najpopularniejsze produkcje firma Valve postara się dodać do usługi[9][10]. Około tygodnia po jej uruchomieniu, z powodu umieszczania wielu nieprawdziwych lub obraźliwych projektów gier, firma Valve wprowadziła opłatę 100 dolarów za możliwość zgłoszenia gry; pieniądze te są w całości przekazywane organizacji charytatywnej Child’s Play[11]. Steam Greenlight został wycofany 13 czerwca 2017 roku. Zastąpił go Steam Direct[12].

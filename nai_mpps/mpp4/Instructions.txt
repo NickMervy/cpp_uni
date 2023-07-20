@@ -1,0 +1,13 @@
+Perform a k-means clustering algorithm on the iris data.
+
+
+Ignore the decision attribute while clustering.
+
+
+The parameter k - number of groups - must be entered by the user.
+
+Your program must display:
+
+With each iteration: For each cluster - the sum of squares of distances from members to the cluster center.
+At the end: The cardinality of each cluster along with their entropy (computed on the distribution of the decision attribute within that cluster).
+No third party modules or libraries are permitted.

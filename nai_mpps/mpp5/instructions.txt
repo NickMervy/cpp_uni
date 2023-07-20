@@ -1,0 +1,10 @@
+Implement the Naive Bayesian Classifier for iris data.
+
+Input data:
+
+Training data – iris_training.txt
+
+Test data – plik iris_test.txt
+Classify each case using the Naive Bayesian Classifier. Establish the confusion matrix. Compute all four performance measures in percent. Discuss the results.
+Your program must allow for an interactive input of new cases’ attribute values for their classification until the user quits.
+No third party ML libraries or tools are permitted, everything musch be coded from scratch.

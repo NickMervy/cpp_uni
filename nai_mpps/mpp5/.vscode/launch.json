@@ -1,0 +1,38 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(Windows) Launch Debug",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/Debug/Main.exe",
+            "args": [
+                "iris_training.txt",
+                "iris_test.txt",
+                "\\s",
+                "pl-PL"
+            ],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/build/Debug",
+            "environment": [],
+            "console": "externalTerminal"
+        },
+        {
+            "name": "(Windows) Launch Release",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/build/Release/Main.exe",
+            "args": [
+                "iris_training.txt",
+                "iris_test.txt"
+            ],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/build/Release",
+            "environment": [],
+            "console": "externalTerminal"
+        },
+    ]
+}

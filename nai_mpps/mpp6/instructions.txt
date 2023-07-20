@@ -1,0 +1,6 @@
+Implement the brute force solution to the knapsack problem.
+
+Input data: File knapsack.txt  containing 15 datasets.
+We randomly choose a number from 1 to 15 for a dataset.
+Output the content of the best knapsack found (a list of [nr, size, value] triples), 
+its total value and capasity used, and the execution time.
